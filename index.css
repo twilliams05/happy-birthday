@@ -1,0 +1,17 @@
+body {
+  background: url(candles.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  margin: 0 auto;
+  background-color: black;
+}
+
+#text {
+  text-align: center;
+  margin-top: 150px;
+  color: white;
+}
+
+h1 {
+  font-size: 5em;
+}
